@@ -13,7 +13,5 @@
 wget https://github.com/crowdsecurity/cs-nginx-bouncer/releases/download/v0.0.4/cs-nginx-bouncer.tgz
 tar xzvf cs-nginx-bouncer.tgz
 cd cs-nginx-bouncer-v*
-pwd
-ls
 chmod +x install.sh
-echo "y" | bash install.sh
+echo "y" | bash -x ./install.sh
