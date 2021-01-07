@@ -16,4 +16,4 @@ cd cs-nginx-bouncer-v*
 pwd
 ls
 chmod +x install.sh
-echo "y" | sh install.sh
+echo "y" | bash install.sh
