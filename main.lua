@@ -1,3 +1,5 @@
+package.path = package.path .. ";./lib/?.lua"
+
 local ngx = ngx
 
 local _M = {}
