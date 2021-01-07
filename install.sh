@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #PLUGIN_NAME="cs-ingress-nginx-bouncer"
 #PLUGIN_PATH="/etc/nginx/lua/plugins/${PLUGIN_NAME}"
